@@ -1,6 +1,3 @@
-#Name: Dvir, ID: 316522341
-#Name: Tali, ID: 206585226	 
-	  	
 ################# Data segment #####################
 .data
 buff:      .space 32
